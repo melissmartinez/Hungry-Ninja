@@ -1,0 +1,11 @@
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/bin/Debug/netcoreapp2.2/Hungry-Ninja.deps.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/bin/Debug/netcoreapp2.2/Hungry-Ninja.runtimeconfig.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/bin/Debug/netcoreapp2.2/Hungry-Ninja.runtimeconfig.dev.json
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/bin/Debug/netcoreapp2.2/Hungry-Ninja.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/bin/Debug/netcoreapp2.2/Hungry-Ninja.pdb
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.csprojAssemblyReference.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.csproj.CoreCompileInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.AssemblyInfoInputs.cache
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.AssemblyInfo.cs
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.dll
+/Users/melissaa.martinez/Desktop/Csharp_Stack/Hungry-Ninja/obj/Debug/netcoreapp2.2/Hungry-Ninja.pdb
